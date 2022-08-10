@@ -177,3 +177,4 @@ int check_for_dir(char *str)
 			return (1);
 	}
 	return (0);
+}
